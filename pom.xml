@@ -103,7 +103,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Wizdom Technologies Snapshot Nexus Repository </name>
+	      <name>Wizdom Technologies Snapshot Nexus Repository</name>
 	      <url>http://192.168.6.137:7733/wizdomtechnologies/repository/facebook-snapshot/</url>
 	    </snapshotRepository>
 	    
